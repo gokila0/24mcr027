@@ -1,0 +1,102 @@
+ai and ml
+ai agents
+digital twin
+
+deep learning
+
+specific type of ml using a technique known as a neural network which connects multiple models together to solve even more complex types of problems
+
+linear regression
+
+data by learning the relationship between features of your data and some observed,continues valued response
+
+regression
+relationship between variables
+it is used to predict a value
+
+k-means for clustering algorithms
+group 
+
+neural network
+human brain work
+
+recognizing images
+predicting stock prices
+translating language
+
+input 
+hidden layer
+output
+
+activation function
+it is activated neurons depending on different conditions
+example:relu
+
+gan(generative adversarial network)
+
+tensorflow
+
+import tensorflow as tf
+
+biological vs
+
+artificial neuron
+
+inputs,weights,bias
+
+types
+
+sigmoid
+tanh
+relu
+leaky relu
+SoftMax
+
+architecture
+single layer perception
+multi layer perception
+cnn
+rnn
+dnn
+
+learning process in ann:
+backpropagation
+learns from its mistakes
+steps:
+forward pass
+loss calculation
+backward pass
+goal:minimize the loss funcanality
+
+pyplot.savefig("histograms.png")
+pyplot.close()
+data_plot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

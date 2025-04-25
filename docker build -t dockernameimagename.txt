@@ -1,0 +1,4 @@
+docker build -t dockername/imagename:latest .
+docker login
+docker images
+docker push username/reponame
